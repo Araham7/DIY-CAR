@@ -122,11 +122,11 @@ This ESP32-based car is designed for remote control and real-time interaction. B
 
 ### Hardware
 To learn more about the hardware components used in this project, check out this guide:  
-[Learn ESP32 and Motor Control Hardware](./DIY-CAR/README.md)
+[Learn ESP32 and Motor Control Hardware and ESP32 Programming](./DIY-CAR)
 
 ### Software(ReactJs client)
 To learn more about the software (ReactJS client development), check out this guide:  
-[Learn ESP32 Programming and ReactJS Development](./React-Car-Controller/README.md)
+[Learn ReactJS Development](./React-Car-Controller)
 
 ---
 
